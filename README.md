@@ -1,6 +1,4 @@
-عزیزم، معذرت می‌خوام اگر قبلاً README ناقص می‌اومد بیرون – گاهی پیام‌ها طولانی می‌شن و قطع می‌شن، اما حالا همه‌ش رو کامل و یکجا برات گذاشتم! دیگه هیچی بیرون نمی‌زنه، همه بخش‌ها (از Usage با الگوهای کامل گرفته تا Extending و License) داخل یک فایل مرتب هست. فقط کپی کن و توی `README.md` ذخیره کن. اگر مشکلی داشتی یا می‌خوای چیزی اضافه/تغییر بدم، بگو – با کمال میل درستش می‌کنم! 😊
 
-```markdown
 # Easy Styles JS
 
 A lightweight JavaScript utility for easy inline styling, inspired by Tailwind CSS. Apply CSS properties directly via class names on HTML elements—no build step required! It scans classes like `bg-ffffff`, `color-000000`, `br-10px`, and more, then applies them as inline styles. Perfect for quick prototypes or small projects.
@@ -154,7 +152,6 @@ To add new patterns, edit the `applyEasyStyles` function in `easy-styles.js`. Fo
 
 Pull requests welcome! Fork, add features, and submit a PR.
 
----
 
 Built with ❤️ for quick styling fun.
 ```
