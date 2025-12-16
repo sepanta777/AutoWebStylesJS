@@ -132,7 +132,7 @@ Add class names to any HTML element following the patterns below. The script run
     <div class="bg-fdfdfd color-000000 br-10px b-1px-s-cccccc p-20px m-10px w-300px txt-center fs-18px fw-bold shadow-md trans-all display-flex justify-center align-items-center">
         Hello, World! Styled with Easy JS.
     </div>
-    <script src="easy-styles.js"></script>
+    <script src="main.js"></script>
 </body>
 </html>
 ```
@@ -147,10 +147,3 @@ To add new patterns, edit the `applyEasyStyles` function in `easy-styles.js`. Fo
 - Hex colors without `#` prefix (e.g., `fdfdfd`).
 - Not production-optimized for huge DOMs (MutationObserver can be heavy).
 
-
-## Contributing
-
-Pull requests welcome! Fork, add features, and submit a PR.
-
-
-Built with ❤️ for quick styling fun.
