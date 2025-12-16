@@ -13,11 +13,11 @@ A lightweight JavaScript utility for easy inline styling, inspired by Tailwind C
 
 ## Installation
 
-1. Download `easy-styles.js` and save it in your project folder.
+1. Download `main.js` and save it in your project folder.
 2. Include it in your HTML before the closing `</body>` tag:
 
 ```html
-<script src="easy-styles.js"></script>
+<script src="main.js"></script>
 ```
 
 3. That's it! Styles will auto-apply on page load and to dynamic content.
